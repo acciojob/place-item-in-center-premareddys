@@ -1,12 +1,14 @@
 
 .item-1{
-	width:100vh;
-	height:100vh;
+	width:100px;
+	height:100px;
 	background-color:red;
 }
 .holder{
 
 	display:flex;
+	width:100vh;
+	height:100vh;
 	justify-content:center;
 	align-items:center;
 	
